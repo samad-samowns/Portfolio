@@ -1,5 +1,11 @@
 /*
  
+ [Master Stylesheet]
+
+ Project:   VirtualGram Template
+ Version:   1.0
+ Author:    Mikhail Abdillah
+ Website:   https://www.macode.web.id/
 
  [Table of contents]
 
@@ -22,7 +28,7 @@
  */
 
 :root {
-    --theme-red: #0275d8;
+    --theme-red: #ef3724;
     --theme-blue: #2960f7;
     --theme-green: #8cc63f;
     --theme-orange: #fd7e14;
